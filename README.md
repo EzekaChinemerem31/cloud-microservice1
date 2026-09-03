@@ -22,3 +22,4 @@ To initiate the fully automated build, dependency installation, container mappin
 
 
 
+![CI](https://github.com/EzekaChinemerem31/cloud-microservice1/actions/workflows/ci.yml/badge.svg)
