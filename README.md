@@ -18,3 +18,4 @@ This repository contains a fully automated, cloud-native multi-tier microservice
 To initiate the fully automated build, dependency installation, container mapping, network linking, and health auditing sequence, execute:
 ```bash
 ./scripts/deploy.sh
+
